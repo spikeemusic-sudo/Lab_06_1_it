@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visual studio project\\lab_06_1_іт\\unittest6.1.іт\\pch.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\visual studio project\\lab_06_1_іт\\unittest6.1.іт\\pch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
